@@ -96,6 +96,7 @@ _**`StudentTracker`**_ is a **student-tracking app / school administration platf
 * **Student records**
 * **Classes & grades**
 * **Attendance tracking**
+* **Custom exceptions**
 
 ---
 
